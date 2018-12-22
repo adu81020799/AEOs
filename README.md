@@ -1,4 +1,4 @@
-# AEOs
+# Advanced operating System (development of simple operating system from scratch)
 This Repo consist of all the code we developed for development of JOS(basic operating system for advanced operating system class for spring 2018.
 This encopass all the labs which are instructed in the following MIT course link.
 https://pdos.csail.mit.edu/6.828/2018/.
